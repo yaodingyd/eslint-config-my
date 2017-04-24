@@ -1,9 +1,9 @@
 {
   "name": "eslint-config-webmd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint cofiguration",
   "main": "index.js",
-  "url": "https://github.com/yaodingyd/eslint-config-webmd",
-  "author": "Yao Ding",
+  "repository": "https://github.com/yaodingyd/eslint-config-webmd",
+  "author": "yding <yding@webmd.net>",
   "license": "MIT"
 }
