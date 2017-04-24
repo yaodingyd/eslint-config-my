@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-webmd",
+  "version": "1.0.1",
+  "description": "eslint cofiguration",
+  "main": "index.js",
+  "author": "Yao Ding",
+  "license": "MIT"
+}
