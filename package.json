@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "eslint cofiguration",
   "main": "index.js",
+  "url": "https://github.com/yaodingyd/eslint-config-webmd",
   "author": "Yao Ding",
   "license": "MIT"
 }
