@@ -1,4 +1,4 @@
-# eslint-config-webmd
+# eslint-config-my
 
 Basic Javscript linting rules:
 
